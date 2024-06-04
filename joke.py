@@ -1,1 +1,1 @@
-print("this idjsjkfhre,mnfdjdfjbnkj")
+print("this idjsjkfdfjbnkj")
